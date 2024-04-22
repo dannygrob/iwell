@@ -1,0 +1,14 @@
+/Users/danny/Documents/Development/iwell/bin/Debug/net8.0/iwell
+/Users/danny/Documents/Development/iwell/bin/Debug/net8.0/iwell.deps.json
+/Users/danny/Documents/Development/iwell/bin/Debug/net8.0/iwell.runtimeconfig.json
+/Users/danny/Documents/Development/iwell/bin/Debug/net8.0/iwell.dll
+/Users/danny/Documents/Development/iwell/bin/Debug/net8.0/iwell.pdb
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.AssemblyInfoInputs.cache
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.AssemblyInfo.cs
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.csproj.CoreCompileInputs.cache
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.dll
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/refint/iwell.dll
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.pdb
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/iwell.genruntimeconfig.cache
+/Users/danny/Documents/Development/iwell/obj/Debug/net8.0/ref/iwell.dll
