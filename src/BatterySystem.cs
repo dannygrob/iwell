@@ -18,8 +18,6 @@ public class BatterySystem {
 
         if (activeBMS.state == BatteryState.Charging) {
             activeGrid.SetBatteryLoad(activeBMS.currentRate);
-        } else if (activeBMS.state == BatteryState.Discharging) {
-            activeGrid.SetBatteryLoad(0);
         } else {
             activeGrid.SetBatteryLoad(0);
         }
